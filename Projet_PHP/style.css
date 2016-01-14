@@ -1,0 +1,161 @@
+#formulaire_client
+{
+	text-align: center;
+}
+body
+{
+	background:url('abstract-pattern_482170.jpg'); 
+}
+p
+{
+	text-align:center;
+	font-weight: bold;
+	color:white;
+	font-size: 20px;
+	font-family: Arial;
+}
+input
+{
+	font-weight: bold;
+	color:white;
+	font-size: 10px;
+	font-family: Arial;
+	margin-top: 10px;
+}
+#admi
+{
+	color:white;
+	margin:0 auto;
+	font-weight: bold;
+	color:white;
+	font-size: 14px;
+	font-family: Arial;
+	text-align: center;
+}
+#admi p
+{
+	color:green;
+}
+#admi img
+{
+	max-width: 300px;
+	max-height:300px;
+}
+#conn p
+{
+	color:green;
+}
+#conn span
+{
+	text-decoration: underline;
+	color:grey;
+}
+#conn img
+{
+	max-width: 300px;
+	max-height:300px;
+	position: absolute;
+	left: 0;
+	top:0;
+}
+#conn
+{
+	color:white;
+	margin:0 auto;
+	font-weight: bold;
+	color:white;
+	font-size: 14px;
+	font-family: Arial;
+	text-align: center;
+}
+#connection
+{
+	margin-top:30px;
+}
+#nom
+{
+	text-align: center;
+	padding: 10px 10px 10px 10px;
+	border-radius: 1px;
+	color:black;
+}
+#mdp
+{
+	text-align: center;
+	padding: 10px 10px 10px 10px;
+	border-radius: 1px;
+	color:black;
+}
+#email
+{
+	text-align: center;
+	padding: 10px 10px 10px 10px;
+	border-radius: 1px;
+	color:black;
+}
+#prenom
+{
+	text-align: center;
+	padding: 10px 10px 10px 10px;
+	border-radius: 1px;
+	color:black;
+}
+#date_n
+{
+	text-align: center;
+	padding: 10px 10px 10px 10px;
+	border-radius: 1px;
+	color:black;
+}
+#identifiant
+{
+	text-align: center;
+	padding: 10px 10px 10px 10px;
+	border-radius: 1px;
+	color:black;
+}
+#message
+{
+	text-align: center;
+	padding: 100px 100px 100px 100px;
+	border-radius: 1px;
+	color:black;
+}
+#sujet
+{
+	text-align: center;
+	padding: 10px 10px 10px 10px;
+	border-radius: 1px;
+	color:black;
+}
+#file
+{
+	margin-left:100px;
+	padding: 10px;
+}
+#inscription
+{
+	margin:0 auto;
+	width:980px;
+	text-align: center;
+}
+#identifiant_mo
+{
+	visibility: hidden;
+}
+#email_post
+{
+	visibility: hidden;
+}
+#submit
+{
+	margin-top:-30px;
+}
+a:link
+{
+	color:white;
+}
+a:visited
+{
+	color:white;
+}
